@@ -6,3 +6,6 @@ Los siguientes paquetes instalados son :
 * npm i bootstrap
 
 * npm i reactstrap react react-dom
+
+
+Link del formulario : https://pedromanueljm.github.io/FORMULARIO_REACT_JS/
